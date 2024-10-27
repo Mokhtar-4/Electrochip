@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background-color: rgba(255, 255, 255, 0.938);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    width: 100%;
+}
+.logo{
+    font-size: 25px;
+    text-decoration: none;
+    color: rebeccapurple;
+    font-weight: 750;
+    margin-left: 350px;
+}
+li{
+    list-style: none;
+}
+nav{
+    display: flex;
+}
+ul{
+    display: flex;
+    margin-left: auto;
+    margin: auto;
+}
+.a1{
+    margin: 30px;
+    text-decoration: none;
+font-weight: 400;
+color: rgb(0, 0, 0);
+
+
+}
+.a1:hover{
+    border-bottom: 2px solid rgb(60, 3, 153);
+}
+.div1{
+    background-color: rgba(205, 198, 223, 0.623);
+    padding-bottom: 460px;
+}
+.img1{
+    float: right;
+    margin-top: 250px;
+    border-radius: 500px;
+    border:8px solid rebeccapurple ;
+    margin-right: 400px;
+
+}
+.h2{
+    padding-top: 250px; 
+    padding-left: 400px;
+    font-size: 40px;
+    font-weight: 900;
+}
+html{
+    scroll-behavior: smooth;
+}
+.h3{
+    font-weight: 900;
+    font-size: 40px;
+    padding-left: 400px;
+}
+.h4{    
+    font-weight: 900;
+    font-size: 40px;
+    padding-left: 400px;
+}
+.p1{
+    padding-left: 400px;
+    font-size: 20px;
+font-weight: 500;
+
+}
+.Contact{
+text-decoration: none;
+color: #fff;
+background-color: rebeccapurple;
+padding: 12px 50px 12px 50px ;
+border-radius: 30px ;
+font-weight: 500;
+
+
+}
+.Contact:hover{
+background-color: rgba(92, 48, 136, 0);
+color: black;
+border:2px solid rebeccapurple ;
+
+}
+.li1{
+    margin-top: 80px;
+    margin-left: 400px;
+}
+.div2{
+    background-color: #fff;
+    padding-bottom: 397px;
+    background-image: url(ss.jpg);
+    background-position: center;
+    background-size:cover ;
+    
+}
+.div2::before{
+    content: "";
+    position: absolute;
+    top: 10;
+    left: 0;
+    width: 100%;
+    height: 37%;
+    background-color: rgba(59, 28, 88, 0.13);
+}
+.div3{
+    background-color: rgba(205, 198, 223, 0.39);
+    padding-bottom: 500px;
+}
+.img2{
+
+    float: right;
+    margin-top: 200px;
+    border-radius: 20px;
+    border:4px solid rgb(255, 255, 255) ;
+    margin-right: 400px;
+}
+.h5{
+    padding-top: 250px;
+    font-size: 40px;
+    font-weight: 900;
+    margin-left: 400px;
+}
+.p2{
+    margin-left: 400px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.Read{
+    background-color: rgba(92, 48, 136, 0);
+color: black;
+background-color: rebeccapurple;
+padding: 12px 50px 12px 50px ;
+border-radius: 30px ;
+text-decoration: none;
+}
+.li2{
+    margin-left: 420px;
+    margin-top: 50px;
+}
+.div4{
+    padding-bottom:50px ;
+background-color: rgb(105, 47, 160);
+text-align: center;
+
+}
+.text{
+    padding: 5px 5px 5px 5px ;
+    margin-top: 100px;
+    padding-right: 150px;
+    border-radius: 20px;
+    border:4px solid rgb(255, 255, 255) ;
+
+}
+.ss{
+    padding: 10px 30px 10px 30px ;
+    border-radius: 20px;
+    background-color: rgb(39, 15, 83);
+    border:1px solid rgb(255, 255, 255) ;
+   color: #fff;
+   margin-left: 10px;
+}
+
+
+
